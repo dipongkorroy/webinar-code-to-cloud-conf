@@ -9,7 +9,7 @@ pipeline {
         GIT_REPO = "https://github.com/askyourmentors/webinar-code-to-cloud-conf.git" 
         REPO_NAME = "webinar-code-to-cloud-conf"
         GIT_CREDENTIAL_ID = "github"
-        EMAIL = "akif22inbox@gmail.com"
+        EMAIL = "dipongkorroycse@gmail.com"
     }
 
     stages{
